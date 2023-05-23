@@ -2,10 +2,12 @@
 #include<conio.h> // get ch
 #include<stdlib.h>
 #include<string.h>
+
 void clrscr(void) // clear screen
 {
     system("cls()");
 }
+
 void emp(void); // prototyping- used to inform main function about user defined function
 void menu(void);
 void pat(void);
@@ -16,6 +18,7 @@ struct address // defining variables
     char city[40];
     char state[40];
 };
+
 struct patient
 {
     char name[40];
@@ -33,6 +36,7 @@ struct patient
     char treatment[40];
     char med[40];
 };
+
 struct staff
 {
     char name[40];
