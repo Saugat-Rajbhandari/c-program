@@ -5,9 +5,10 @@ Project in C
 This project is helpful to keep details of Patient,Employee.Inventory in the Hospital.
 
 These operations can be done.
-1.Enter a New Entry
 
-             2.Modify Existing
+            1.Enter a New Entry
+
+            2.Modify Existing
 
             3.Search an Entry
 
